@@ -285,7 +285,7 @@
     <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" groups="pdk-cw-fs,pdk-fs"/>
     <project path="frameworks/opt/chips" name="platform/frameworks/opt/chips" groups="pdk-cw-fs,pdk-fs"/>
     <project path="frameworks/opt/colorpicker" name="platform/frameworks/opt/colorpicker" groups="pdk-cw-fs,pdk-fs"/>
-    <project path="frameworks/opt/datetimepicker" name="platform/frameworks/opt/datetimepicker-liquid" groups="pdk-cw-fs,pdk-fs" remote="wizcheu"/>
+    <project path="frameworks/opt/datetimepicker" name="android_frameworks_opt_datetimepicker-liquid" groups="pdk-cw-fs,pdk-fs" remote="wizcheu"/>
     <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" groups="pdk-cw-fs,pdk-fs"/>
     <project path="frameworks/opt/inputconnectioncommon" name="platform/frameworks/opt/inputconnectioncommon" groups="pdk-fs"/>
     <project path="frameworks/opt/inputmethodcommon" name="platform/frameworks/opt/inputmethodcommon" groups="pdk-cw-fs,pdk-fs"/>
