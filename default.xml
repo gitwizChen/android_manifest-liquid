@@ -475,8 +475,8 @@
     <project path="system/core" name="android_system_core" groups="pdk" remote="liquid"/>
     <project path="vendor/qcom/opensource/bluetooth" name="android_vendor_qcom_opensource_bluetooth" remote="liquid"/>
     <project path="vendor/liquid" name="android_vendor_liquid" remote="wizcheu"/>
-    <project path="packages/providers/PhoneLocationProvider" name="android_packages_provider_PhoneLocationProvider" remote="wizcheu" revision="XOS-8.0"/>
-    <project path="external/suda/SudaSDKs" name="android_external_suda_SudaSDKs" remote="wizcheu" revision="XOS-8.0"/>
+    <project path="packages/providers/PhoneLocationProvider" name="gitwizChen/android_packages_provider_PhoneLocationProvider" remote="github" revision="XOS-8.0"/>
+    <project path="external/suda/SudaSDKs" name="gitwizChen/android_external_suda_SudaSDKs" remote="github" revision="XOS-8.0"/>
     <!-- FINISH LIQUID -->
 
     <!-- START LINEAGE -->
